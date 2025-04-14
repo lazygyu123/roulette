@@ -1,0 +1,1 @@
+document.getElementById("app").innerText = "🎯 룰렛이 여기에 표시됩니다!";
